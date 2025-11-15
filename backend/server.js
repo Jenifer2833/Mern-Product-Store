@@ -29,5 +29,4 @@ app.listen(PORT, () => {
     console.log("Server started at http://localhost:" + PORT);
 });
 
-//3QVrV1Ma0XrHEdFB
-//jeniferreshma33_db_user
+
